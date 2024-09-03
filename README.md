@@ -14,7 +14,7 @@ To run the game locally, you'll need a modern web browser. No additional softwar
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/chess-game.git
+git clone https://github.com/Marupingm/chessgame.git
 
 Navigate to the project directory:
 cd chess-game
