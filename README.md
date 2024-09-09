@@ -41,4 +41,4 @@ Thanks to the open-source community for the various resources and inspiration.
 Contact
 Feel free to reach out if you have any questions or suggestions!
 
-Email: maruping@topsy.dev
+Email: info@topsy.dev
